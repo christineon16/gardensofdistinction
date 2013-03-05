@@ -68,8 +68,8 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	line-height:normal;
 	}
 
-.col1, .col1 a{color:#DCDCDC; background-color:#4C7048; border-bottom:1px solid #000000;}
-.col1 a{border-bottom:none;background-color:#4C7048}
+.col1, .col1 a{color:#DCDCDC; background-color:#4C7048; border-bottom:1px solid #0E140D;text-decoration:none}
+
 .col2{color:#000000; background-color:#F3F0E5; border-top:1px solid #333333; border-bottom:5px solid #A4A4A4;}
 .col2 a{color:#3ADF00; background-color:#F3F0E5;}
 .col3{color:#000000; background-color:#F3F0E5; border-bottom:5px solid #444444;}
