@@ -41,6 +41,15 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 	height:432px;
 	}
 
+#bio p{
+	float:left;
+	padding-bottom:26px;
+	background:url("../images/white_file.gif") bottom center no-repeat;
+	}
+#bio p img{
+         width:426px;
+        height:456px;
+              }
 #homepage p img, #homepage ul{
 	padding:10px;
 	color:#3A3A3A;
